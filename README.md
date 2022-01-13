@@ -3,11 +3,7 @@
  
 # Interactive Topographic Network modeling framework 
 
-[![Paper](http://img.shields.io/badge/biorXiv-2021-4b44ce.svg)](https://www.biorxiv.org/content/10.1101/2021.05.29.446297v2)
-<!--
-PSYARXIV   
-[![Paper](http://img.shields.io/badge/arxiv-math.co:1480.1111-B31B1B.svg)](https://www.biorxiv.org/content/10.1101/2021.05.29.446297v2)
--->
+[![Paper](https://img.shields.io/badge/PNAS-2022-brightgreen)](https://www.pnas.org/content/119/3/e2112566119)
 </div>
  
 ## Description   
@@ -15,11 +11,12 @@ PSYARXIV
 
 ### Citation   
 ```
-@article{Blauch2021Connectivity,
+@article{Blauch2022Connectivity,
   title={A connectivity-constrained computational account of topographic organization in primate high-level visual cortex},
   author={Nicholas M. Blauch, Marlene Behrmann, David C. Plaut},
-  journal={biorXiv},
-  year={2021}
+  journal={Proceedings of the National Academy of Sciences},
+  year={2022},
+  issue={199 (3)},
 }
 ```   
 
@@ -56,7 +53,7 @@ export SERVERNAME='nick-local'
 ```
 
 ## Data on KiltHub
-- Alternatively to running the models yourself, you can download all of the pre-trained and fine-tuned models along with relevant results necessary for all plots in the paper on Kilthub: https://doi.org/10.1184/R1/14935602
+- Alternatively to running the models yourself, you can download all of the pre-trained and fine-tuned models along with relevant results necessary for all plots in the paper on Kilthub: https://doi.org/10.1184/R1/17131319
 
 ## Plot the results
 View the jupyter notebooks; we recommend using Jupyter Lab (which can be installed and launched with:)
